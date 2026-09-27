@@ -29,5 +29,3 @@ npm run build
 ```
 Generates an optimized production bundle in the `dist/` directory.
 ---
-## ⚠️ Disclaimer
-> **Prototype Demonstration**: Forecast values, regime classifications, and verification metrics presented in this application are simulated for demonstration and prototyping purposes. They do not constitute official operational weather forecasts of the **Ministry of Earth Sciences (MoES)** or the **National Centre for Medium Range Weather Forecasting (NCMRWF)**.
